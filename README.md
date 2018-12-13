@@ -1,12 +1,14 @@
 # Reseach on Inverse Kinematics
 
 This project consists of 2 parts:  
-- First is Unity project aobut 2D IK segment movement  
+- First is Unity project about 2D IK segment movement  
 - The second one is Blender project.
 
 ### Unity project
 
 Demonstration of 2D Inverse Kinematics on robot arm with adjustable segments. Segments are mutually connected and on user mouse click are changing positions and rotations depending on current mouse location. Each arm segment is moving by principles of IK.
+
+![alt text]()
 
 ### Blender project
 
