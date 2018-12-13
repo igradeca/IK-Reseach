@@ -8,7 +8,7 @@ This project consists of 2 parts:
 
 Demonstration of 2D Inverse Kinematics on robot arm with adjustable segments. Segments are mutually connected and on user mouse click are changing positions and rotations depending on current mouse location. Each arm segment is moving by principles of IK.
 
-![alt text]()
+![alt text](https://github.com/igradeca/IK-Reseach/blob/master/IK%20screenshot.jpg)
 
 ### Blender project
 
